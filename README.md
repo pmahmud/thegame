@@ -17,9 +17,7 @@
 | ![Raksha](https://media.licdn.com/dms/image/C4E03AQFBNOVtOnLK2A/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=9rp93hyYGq-pjUdjG_1GwmZ4dNhoMknynFDc2KN_qxY) | Raksha Nagesh Bysani  | Dev |
 | ![Ankit](https://media.licdn.com/dms/image/C5603AQFZ6-xU3q8UiA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=SJOlGBNrZeUZf7VeqVD0vBcgcudLDSWMHm-4NLzEMoQ) | Ankit Ghosalkar | Dev |
 
-The game "Snakes on a plane" brings you the traditional game Snakes with a twist. It is a computer game where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. It is based on [Node.js](https://nodejs.org/) and
-[Chromium](https://www.chromium.org) and is used by the [Atom
-editor](https://github.com/atom/atom) and many other [apps](https://electronjs.org/apps).
+The game "Snakes on a plane" brings you the traditional game Snakes with a twist. This game is about a snake who lives in a forked github repo somewhere in the cloud. It wanted to travel the world hence got onto the Expedia plane.
 
 Follow [@SnakesOnAPlane](https://twitter.com/snakesonaplane) on Twitter for important
 announcements.
@@ -29,25 +27,9 @@ This project adheres to the Contributor Covenant
 By participating, you are expected to uphold this code. Please report unacceptable
 behavior to [pallmahmud@gmail.com](mailto:pallmahmud@gmail.com).
 
-## Installation
+## Quick start
 
-To install prebuilt game binaries, use [`npm`](https://docs.npmjs.com/).
-The preferred method is to install the game as a development dependency in your
-app:
-
-```sh
-npm install --save-dev [--save-exact]
-```
-
-For more installation options and troubleshooting tips, see
-[installation](docs/tutorial/installation.md).
-
-## Quick start & Electron Fiddle
-
-Use [`Electron Fiddle`](https://github.com/electron/fiddle)
-to build, run, and package small Electron experiments, to see code examples for all of Electron's APIs, and
-to try out different versions of Electron. It's designed to make the start of your journey with
-Electron easier.
+Clone the repo and run the following command on your terminal to run the game.
 
 ```sh
 git clone https://github.com/pmahmud/thegame
@@ -55,8 +37,6 @@ cd thegame
 npm install
 npm start
 ```
-
-## Programmatic usage
 
 ## Contributing
 
@@ -70,5 +50,3 @@ and more can be found in the [support document](docs/tutorial/support.md#finding
 ## License
 
 [MIT](https://github.com/electron/electron/blob/master/LICENSE)
-
-When using the Electron or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
