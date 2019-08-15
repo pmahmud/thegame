@@ -9,13 +9,13 @@ The game "Snakes on a plane" brings you the traditional game Snakes with a twist
 [Chromium](https://www.chromium.org) and is used by the [Atom
 editor](https://github.com/atom/atom) and many other [apps](https://electronjs.org/apps).
 
-Follow [@ElectronJS](https://twitter.com/electronjs) on Twitter for important
+Follow [@SnakesOnAPlane](https://twitter.com/snakesonaplane) on Twitter for important
 announcements.
 
 This project adheres to the Contributor Covenant
 [code of conduct](https://github.com/pmahmud/thegame/blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable
-behavior to [coc@electronjs.org](mailto:pallmahmud@gmail.com).
+behavior to [pallmahmud@gmail.com](mailto:pallmahmud@gmail.com).
 
 ## Installation
 
