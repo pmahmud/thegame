@@ -3,7 +3,10 @@
 
 > Azure Pipelines badge here
 
-> Team Members 
+> Team Members : 
+Pallab Muhamud
+Ankit Ghosalkar
+Raksha Nagesh Bysani 
 
 
 | Photo              | Name             | Role          |
