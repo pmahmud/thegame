@@ -12,23 +12,19 @@ Follow [@ElectronJS](https://twitter.com/electronjs) on Twitter for important
 announcements.
 
 This project adheres to the Contributor Covenant
-[code of conduct](https://github.com/electron/electron/tree/master/CODE_OF_CONDUCT.md).
+[code of conduct](https://github.com/pmahmud/thegame/blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable
-behavior to [coc@electronjs.org](mailto:coc@electronjs.org).
+behavior to [coc@electronjs.org](mailto:pallmahmud@gmail.com).
 
 ## Installation
 
-To install prebuilt Electron binaries, use [`npm`](https://docs.npmjs.com/).
-The preferred method is to install Electron as a development dependency in your
+To install prebuilt game binaries, use [`npm`](https://docs.npmjs.com/).
+The preferred method is to install the game as a development dependency in your
 app:
 
 ```sh
-npm install electron --save-dev [--save-exact]
+npm install --save-dev [--save-exact]
 ```
-
-The `--save-exact` flag is recommended for Electron prior to version 2, as it does not follow semantic
-versioning. As of version 2.0.0, Electron follows semver, so you don't need `--save-exact` flag. For info on how to manage Electron versions in your apps, see
-[Electron versioning](docs/tutorial/electron-versioning.md).
 
 For more installation options and troubleshooting tips, see
 [installation](docs/tutorial/installation.md).
@@ -40,51 +36,14 @@ to build, run, and package small Electron experiments, to see code examples for 
 to try out different versions of Electron. It's designed to make the start of your journey with
 Electron easier.
 
-Alternatively, clone and run the
-[electron/electron-quick-start](https://github.com/electron/electron-quick-start)
-repository to see a minimal Electron app in action:
-
 ```sh
-git clone https://github.com/electron/electron-quick-start
-cd electron-quick-start
+git clone https://github.com/pmahmud/thegame
+cd thegame
 npm install
 npm start
 ```
 
-## Resources for learning Electron
-
-- [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [electron/fiddle](https://github.com/electron/fiddle) - A tool to build, run, and package small Electron experiments
-- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - a very basic starter Electron app
-- [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - sample starter apps created by the community
-- [electron/simple-samples](https://github.com/electron/simple-samples) - small applications with ideas for taking them further
-- [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
-- [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
-
 ## Programmatic usage
-
-Most people use Electron from the command line, but if you require `electron` inside
-your **Node app** (not your Electron app) it will return the file path to the
-binary. Use this to spawn Electron from Node scripts:
-
-```javascript
-const electron = require('electron')
-const proc = require('child_process')
-
-// will print something similar to /Users/maf/.../Electron
-console.log(electron)
-
-// spawn Electron
-const child = proc.spawn(electron)
-```
-
-### Mirrors
-
-- [China](https://npm.taobao.org/mirrors/electron)
-
-## Documentation Translations
-
-Find documentation translations in [electron/i18n](https://github.com/electron/i18n).
 
 ## Contributing
 
