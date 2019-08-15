@@ -5,6 +5,18 @@
 [![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/master.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/master)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/4lggi9dpjc1qob7k/branch/master?svg=true)](https://ci.appveyor.com/project/electron-bot/electron-ljo26/branch/master)
 
+> Team Members : 
+* Pallab Muhamud
+* Ankit Ghosalkar
+* Raksha Nagesh Bysani 
+
+
+| Photo              | Name             | Role          |
+|--------------------|------------------|---------------|
+| ![Pallab](https://avatars2.githubusercontent.com/u/9063020?s=400&u=9417ed7546d421079352fb33772d8a0146649432&v=4) | Pallab Mahmud | Dev |
+| ![Raksha](https://media.licdn.com/dms/image/C4E03AQFBNOVtOnLK2A/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=9rp93hyYGq-pjUdjG_1GwmZ4dNhoMknynFDc2KN_qxY) | Raksha Nagesh Bysani  | Dev |
+| ![Ankit](https://media.licdn.com/dms/image/C5603AQFZ6-xU3q8UiA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=SJOlGBNrZeUZf7VeqVD0vBcgcudLDSWMHm-4NLzEMoQ) | Ankit Ghosalkar | Dev |
+
 The game "Snakes on a plane" brings you the traditional game Snakes with a twist. It is a computer game where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. It is based on [Node.js](https://nodejs.org/) and
 [Chromium](https://www.chromium.org) and is used by the [Atom
 editor](https://github.com/atom/atom) and many other [apps](https://electronjs.org/apps).
