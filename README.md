@@ -13,9 +13,9 @@
 
 | Photo              | Name             | Role          |
 |--------------------|------------------|---------------|
-| ![Pallab](https://media.licdn.com/dms/image/C5603AQFTasD8Fi-etA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=P4-Nc4WClc3-Yz0qgMwvdwsIZbkVMJRjTcvcrG6xyVg) | Pallab Mahmud | Dev |
-| ![Raksha](https://media.licdn.com/dms/image/C4E03AQFBNOVtOnLK2A/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=9rp93hyYGq-pjUdjG_1GwmZ4dNhoMknynFDc2KN_qxY) | Raksha Nagesh Bysani  | Dev |
-| ![Ankit](https://media.licdn.com/dms/image/C5603AQFZ6-xU3q8UiA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=SJOlGBNrZeUZf7VeqVD0vBcgcudLDSWMHm-4NLzEMoQ) | Ankit Ghosalkar | Dev |
+| <img src="https://media.licdn.com/dms/image/C5603AQFTasD8Fi-etA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=P4-Nc4WClc3-Yz0qgMwvdwsIZbkVMJRjTcvcrG6xyVg" width="150" /> | Pallab Mahmud | Dev |
+| <img src="https://media.licdn.com/dms/image/C4E03AQFBNOVtOnLK2A/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=9rp93hyYGq-pjUdjG_1GwmZ4dNhoMknynFDc2KN_qxY" width="150" /> | Raksha Nagesh Bysani  | Dev |
+| <img src="https://media.licdn.com/dms/image/C5603AQFZ6-xU3q8UiA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=SJOlGBNrZeUZf7VeqVD0vBcgcudLDSWMHm-4NLzEMoQ" width="150" /> | Ankit Ghosalkar | Dev |
 
 The game "Snakes on a plane" brings you the traditional game Snakes with a twist. This game is about a snake who lives in a forked github repo somewhere in the cloud. It wanted to travel the world hence got onto the Expedia plane.
 
