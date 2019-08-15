@@ -1,5 +1,7 @@
 
-[![cheatCoders](./logo.png)](https://github.com/pmahmud/thegame)
+# Snakes on a plane
+
+[![cheatCoders](./snakelogo.png)](https://github.com/pmahmud/thegame)
 
 > Azure Pipelines badge here
 
