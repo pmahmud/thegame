@@ -14,8 +14,9 @@ Follow [@SnakesOnAPlane](https://twitter.com/snakesonaplane) on Twitter for impo
 announcements.
 
 ### Screenshot
-<img src="./snake-screenshot.gif" width="300" />
-
+<p align="center">
+  <img src="./snake-screenshot.gif" width="300" />
+</p>
 
 > Team Members : 
 * Pallab Muhamud
