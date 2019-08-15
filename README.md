@@ -13,7 +13,7 @@
 
 | Photo              | Name             | Role          |
 |--------------------|------------------|---------------|
-| ![Pallab](https://avatars2.githubusercontent.com/u/9063020?s=400&u=9417ed7546d421079352fb33772d8a0146649432&v=4) | Pallab Mahmud | Dev |
+| ![Pallab](https://media.licdn.com/dms/image/C5603AQFTasD8Fi-etA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=P4-Nc4WClc3-Yz0qgMwvdwsIZbkVMJRjTcvcrG6xyVg) | Pallab Mahmud | Dev |
 | ![Raksha](https://media.licdn.com/dms/image/C4E03AQFBNOVtOnLK2A/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=9rp93hyYGq-pjUdjG_1GwmZ4dNhoMknynFDc2KN_qxY) | Raksha Nagesh Bysani  | Dev |
 | ![Ankit](https://media.licdn.com/dms/image/C5603AQFZ6-xU3q8UiA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=SJOlGBNrZeUZf7VeqVD0vBcgcudLDSWMHm-4NLzEMoQ) | Ankit Ghosalkar | Dev |
 
