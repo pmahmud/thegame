@@ -19,7 +19,7 @@ announcements.
 </p>
 
 > Team Members : 
-* Pallab Muhamud
+* Pallab Mahmud
 * Ankit Ghosalkar
 * Raksha Nagesh Bysani 
 
