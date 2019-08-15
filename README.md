@@ -56,4 +56,4 @@ and more can be found in the [support document](docs/tutorial/support.md#finding
 
 ## License
 
-[MIT](https://github.com/electron/electron/blob/master/LICENSE)
+[MIT](https://github.com/snakeop/thegame/blob/master/LICENSE)
