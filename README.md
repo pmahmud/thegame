@@ -1,12 +1,25 @@
 # Snakes on a plane
-
-<img src="./snakelogo.png" width="150" />
-
 [![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/master.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/master)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/4lggi9dpjc1qob7k/branch/master?svg=true)](https://ci.appveyor.com/project/electron-bot/electron-ljo26/branch/master)
 
+<p align="center">
+  <img src="./snakelogo.png" width="150" />
+</p>
+
+## Description
+
+The game "Snakes on a plane" brings you the traditional game Snakes with a twist. This game is about a snake who lives in a forked github repo somewhere in the cloud. It wanted to travel the world hence got onto the Expedia plane. By playing this awesome game, you would be experiening the exciting journey of the snake on a 2D plane.
+
+Follow [@SnakesOnAPlane](https://twitter.com/snakesonaplane) on Twitter for important
+announcements.
+
+### Screenshot
+<p align="center">
+  <img src="./snake-screenshot.gif" width="300" />
+</p>
+
 > Team Members : 
-* Pallab Muhamud
+* Pallab Mahmud
 * Ankit Ghosalkar
 * Raksha Nagesh Bysani 
 
@@ -15,11 +28,6 @@
 | <img src="https://media.licdn.com/dms/image/C5603AQFTasD8Fi-etA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=P4-Nc4WClc3-Yz0qgMwvdwsIZbkVMJRjTcvcrG6xyVg" width="100" /> | Pallab Mahmud | Dev |
 | <img src="https://media.licdn.com/dms/image/C4E03AQFBNOVtOnLK2A/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=9rp93hyYGq-pjUdjG_1GwmZ4dNhoMknynFDc2KN_qxY" width="100" /> | Raksha Nagesh Bysani  | Dev |
 | <img src="https://media.licdn.com/dms/image/C5603AQFZ6-xU3q8UiA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=SJOlGBNrZeUZf7VeqVD0vBcgcudLDSWMHm-4NLzEMoQ" width="100" /> | Ankit Ghosalkar | Dev |
-
-The game "Snakes on a plane" brings you the traditional game Snakes with a twist. This game is about a snake who lives in a forked github repo somewhere in the cloud. It wanted to travel the world hence got onto the Expedia plane. By playing this awesome game, you would be experiening the exciting journey of the snake on a 2D plane.
-
-Follow [@SnakesOnAPlane](https://twitter.com/snakesonaplane) on Twitter for important
-announcements.
 
 This project adheres to the Contributor Covenant
 [code of conduct](https://github.com/pmahmud/thegame/blob/master/CODE_OF_CONDUCT.md).
