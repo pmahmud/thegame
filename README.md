@@ -10,7 +10,6 @@
 * Ankit Ghosalkar
 * Raksha Nagesh Bysani 
 
-
 | Photo              | Name             | Role          |
 |--------------------|------------------|---------------|
 | <img src="https://media.licdn.com/dms/image/C5603AQFTasD8Fi-etA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=P4-Nc4WClc3-Yz0qgMwvdwsIZbkVMJRjTcvcrG6xyVg" width="100" /> | Pallab Mahmud | Dev |
